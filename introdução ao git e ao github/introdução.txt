@@ -1,0 +1,5 @@
+este repo. foi criado para auxiliar o desafio da dio sobre git/github.
+
+segue o link do repo.
+
+https://github.com/Pedroguardiao/dio-desafio-github
